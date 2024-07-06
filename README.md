@@ -6,7 +6,7 @@ AWS DevOps Project: CI/CD Pipeline with Jenkins, Docker, and Kubernetes
 https://github.com/vishu-25/hello-world-devops-src.git
 
 ## Project Plan 
-![Project-plan](images/aws-ci-cd.png)
+![Project-plan](aws-ci-cd.png)
 
 ## Install Jenkins on EC2 instance 
 
